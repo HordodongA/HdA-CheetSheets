@@ -114,7 +114,7 @@ https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/
 > * Pull remote repo to local and look for differences   
 > ### Git push  
 > * Upload commits to remote repository (full commit history)  
-> ### Git push -set-upsream [alias] main  
+> ### Git push --set-upstream [alias] main  
 > * Push to remote repository's main branch  
 > ### Git branch  
 > * Print branches, active branch marked with *  
